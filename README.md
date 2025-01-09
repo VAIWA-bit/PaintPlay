@@ -4,7 +4,7 @@
 - ## Tested only on Windows 10
 - ## Paint must be installed in **C:\Windows\system32**
 - ## If you want to play Doom - **GZDoom** and **Doom Enhanced** won't work, use **Crispy Doom** instead
-- ## The laucnher is built using **Microsoft Edge WebView2**. If you don't have it installed, you will need to install it. However, it comes pre-installed by default on Windows 10 and later.
+- ## The launcher is built using **Microsoft Edge WebView2**. If you don't have it installed, you will need to install it. However, it comes pre-installed by default on Windows 10 and later.
 # 1. Download PaintPlay.zip and install it
 # 2. Setup
 - ## **Required:** Ensure the game is set to run in windowed mode, modify its resolution, and verify that it is using OpenGL or Vulkan
